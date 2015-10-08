@@ -1,0 +1,14 @@
+c:\users\krikor\documents\visual studio 2015\Projects\MD5 Checker\MD5 Checker\bin\Debug\MD5 Checker.exe.config
+c:\users\krikor\documents\visual studio 2015\Projects\MD5 Checker\MD5 Checker\bin\Debug\MD5 Checker.exe
+c:\users\krikor\documents\visual studio 2015\Projects\MD5 Checker\MD5 Checker\bin\Debug\MD5 Checker.pdb
+c:\users\krikor\documents\visual studio 2015\Projects\MD5 Checker\MD5 Checker\obj\Debug\MD5 Checker.csprojResolveAssemblyReference.cache
+c:\users\krikor\documents\visual studio 2015\Projects\MD5 Checker\MD5 Checker\obj\Debug\MainWindow.g.cs
+c:\users\krikor\documents\visual studio 2015\Projects\MD5 Checker\MD5 Checker\obj\Debug\App.g.cs
+c:\users\krikor\documents\visual studio 2015\Projects\MD5 Checker\MD5 Checker\obj\Debug\MD5 Checker_MarkupCompile.cache
+c:\users\krikor\documents\visual studio 2015\Projects\MD5 Checker\MD5 Checker\obj\Debug\MD5 Checker_MarkupCompile.lref
+c:\users\krikor\documents\visual studio 2015\Projects\MD5 Checker\MD5 Checker\obj\Debug\MainWindow.baml
+c:\users\krikor\documents\visual studio 2015\Projects\MD5 Checker\MD5 Checker\obj\Debug\MD5 Checker.g.resources
+c:\users\krikor\documents\visual studio 2015\Projects\MD5 Checker\MD5 Checker\obj\Debug\MD5_Checker.Properties.Resources.resources
+c:\users\krikor\documents\visual studio 2015\Projects\MD5 Checker\MD5 Checker\obj\Debug\MD5 Checker.csproj.GenerateResource.Cache
+c:\users\krikor\documents\visual studio 2015\Projects\MD5 Checker\MD5 Checker\obj\Debug\MD5 Checker.exe
+c:\users\krikor\documents\visual studio 2015\Projects\MD5 Checker\MD5 Checker\obj\Debug\MD5 Checker.pdb
